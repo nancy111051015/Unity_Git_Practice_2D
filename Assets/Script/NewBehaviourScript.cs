@@ -69,7 +69,7 @@ namespace Nancy
         {
             Debug.Log(message: $"進入偵測區域");
             
-            qrCode.SetActive( true );
+            qrCode.SetActive(false);
 
         }
 
